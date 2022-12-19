@@ -33,13 +33,13 @@
   },
   "devDependencies": {
     "babel-eslint": "10.1.0",
-    "eslint": "8.27.0",
+    "eslint": "8.29.0",
     "eslint-plugin-ghost": "2.16.0",
-    "eslint-plugin-react": "7.31.10"
+    "eslint-plugin-react": "7.31.11"
   },
   "dependencies": {
-    "@tryghost/helpers": "1.1.74",
-    "@tryghost/helpers-gatsby": "2.0.4",
+    "@tryghost/helpers": "1.1.75",
+    "@tryghost/helpers-gatsby": "2.0.5",
     "cheerio": "1.0.0-rc.11",
     "gatsby": "4.15.2",
     "gatsby-awesome-pagination": "0.3.8",
@@ -52,7 +52,7 @@
     "gatsby-plugin-react-helmet": "5.15.0",
     "gatsby-plugin-sharp": "4.15.1",
     "gatsby-source-filesystem": "4.15.0",
-    "gatsby-source-ghost": "5.0.0",
+    "gatsby-source-ghost": "5.0.1",
     "gatsby-transformer-sharp": "4.15.1",
     "lodash": "4.17.21",
     "react": "18.2.0",
