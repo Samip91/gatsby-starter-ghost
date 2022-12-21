@@ -4,4 +4,4 @@
 
 https://gatsby-starter-ghost.netlify.com/_ https://gatsby.ghost.org/:splat 301!
 http://gatsby-starter-ghost.netlify.com/_ https://gatsby.ghost.org/:splat 301!
-https://blog.ghimiresamip.com.np/* https://www.ghimiresamip.com.np/blog/:splat 301!
+https://blog.ghimiresamip.com.np/* https://www.ghimiresamip.com.np/blog/:splat 200!
