@@ -8,5 +8,5 @@
 [[redirects]]
 from = "https://blog.ghimiresamip.com.np/"
 to = "https://blog.ghimiresamip.com.np/blogs/"
-status = 301
-force = true
+status = 200
+force = false
