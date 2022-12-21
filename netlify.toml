@@ -7,6 +7,6 @@
 
 [[redirects]]
 from = "/*"
-to = "https://ghimiresamip.com.np/blogs/:splat"
+to = "/blogs/:splat"
 status = 301
 force = true
