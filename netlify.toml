@@ -6,7 +6,7 @@
   incoming-hooks = ["Ghost"]
 
 [[redirects]]
-from = "https://blog.ghimiresamip.com.np/blogs/"
+from = "https://ghimiresamip.com.np/blogs/"
 to= "https://blog.ghimiresamip.com.np/"
 status = 200
 force = false
