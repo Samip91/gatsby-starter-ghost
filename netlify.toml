@@ -7,6 +7,6 @@
 
 [[redirects]]
   from = "/*"
-  to = "https://ghimiresamip.com.np/blogs"
+  to = "https://blog.ghimiresamip.com.np/blogs"
   status = 200
   force = true # COMMENT: ensure that we always redirect
