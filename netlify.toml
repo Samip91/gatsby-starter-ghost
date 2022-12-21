@@ -8,5 +8,5 @@
 [[redirects]]
 from = "/*"
 to = "https://ghimiresamip.com.np/blogs/:splat"
-status = 200
-force = false
+status = 301
+force = true
