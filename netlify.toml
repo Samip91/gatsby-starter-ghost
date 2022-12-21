@@ -5,11 +5,8 @@
 [template]
   incoming-hooks = ["Ghost"]
 
-  ## This rule redirects to an external API, signing requests with a secret
-  [[redirects]]
-    from = "/*"
-    to = "https://ghimiresamip.com.np/blogs"
-    status = 301
-    force = true # COMMENT: ensure that we always redirect
-    headers = {X-From = "Netlify"}
-    signed = "API_SIGNATURE_TOKEN"
+[[redirects]]
+from = "https://ghimiresamip.com.np/blogs"
+to = "https://heroic-zabaione-916e01.netlify.app/:splat"
+status = 200
+force = false
