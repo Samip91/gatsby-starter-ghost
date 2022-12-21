@@ -4,3 +4,9 @@
 
 [template]
   incoming-hooks = ["Ghost"]
+
+[[redirects]]
+  from = "/*"
+  to = "https://ghimiresamip.com.np/blogs"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
