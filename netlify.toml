@@ -6,7 +6,7 @@
   incoming-hooks = ["Ghost"]
 
 [[redirects]]
-from = "/*"
-to = "/blogs/:splat"
+from = "https://blog.ghimiresamip.com.np/"
+to = "https://blog.ghimiresamip.com.np/blogs/"
 status = 301
 force = true
