@@ -5,8 +5,3 @@
 [template]
   incoming-hooks = ["Ghost"]
 
-[[redirects]]
-from = "https://ghimiresamip.com.np/blogs/"
-to= "https://blog.ghimiresamip.com.np/"
-status = 200
-force = false
