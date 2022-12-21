@@ -6,7 +6,7 @@
   incoming-hooks = ["Ghost"]
 
 [[redirects]]
-from = "https://ghimiresamip.com.np/blogs"
-to = "https://heroic-zabaione-916e01.netlify.app/:splat"
+from = "/*"
+to = "https://ghimiresamip.com.np/blogs/:splat"
 status = 200
 force = false
